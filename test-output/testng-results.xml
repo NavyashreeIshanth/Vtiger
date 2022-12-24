@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-12-23T11:27:47 IST" name="Default suite" finished-at="2022-12-23T11:27:48 IST" duration-ms="443">
+  <suite started-at="2022-12-24T11:53:18 IST" name="Default suite" finished-at="2022-12-24T11:53:19 IST" duration-ms="408">
     <groups>
     </groups>
-    <test started-at="2022-12-23T11:27:47 IST" name="Default test" finished-at="2022-12-23T11:27:48 IST" duration-ms="443">
-      <class name="demo.sample">
-        <test-method signature="sampleTest()[pri:0, instance:demo.sample@5939a379]" started-at="2022-12-23T11:27:48 IST" name="sampleTest" finished-at="2022-12-23T11:27:48 IST" duration-ms="65" status="PASS">
+    <test started-at="2022-12-24T11:53:18 IST" name="Default test" finished-at="2022-12-24T11:53:19 IST" duration-ms="408">
+      <class name="Organization.createOrganizationtest">
+        <test-method signature="tc_215_CreateOrganizationwithMandatoryField()[pri:0, instance:Organization.createOrganizationtest@5939a379]" started-at="2022-12-24T11:53:19 IST" name="tc_215_CreateOrganizationwithMandatoryField" finished-at="2022-12-24T11:53:19 IST" duration-ms="133" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- sampleTest -->
-      </class> <!-- demo.sample -->
+        </test-method> <!-- tc_215_CreateOrganizationwithMandatoryField -->
+      </class> <!-- Organization.createOrganizationtest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
