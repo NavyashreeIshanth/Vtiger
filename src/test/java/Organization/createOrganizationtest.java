@@ -10,6 +10,7 @@ public class createOrganizationtest {
 	public void tc_215_CreateOrganizationwithMandatoryField()
 	{
 		System.out.println("TC_215");
+		System.out.println("TC_215");
 	}
 	
 }
